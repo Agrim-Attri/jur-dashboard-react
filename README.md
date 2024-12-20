@@ -44,4 +44,4 @@ This project is a React implementation of a dashboard design provided as part of
 
 ## Author
 
-Your Name
+Agrim Attri
