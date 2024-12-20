@@ -22,21 +22,6 @@ This project is a React implementation of a dashboard design provided as part of
 *   For this exercise, I focused primarily on replicating the front-end design and basic interactions. Full backend integration and more advanced features (like actual file uploads) were not implemented.
 *   Inline styles were initially used for rapid prototyping in CodeSandbox, then migrated to an external CSS file for better organization.
 
-## Screenshots
-
-*(Here, you would include screenshots of your dashboard in desktop, tablet, and mobile views. You can take screenshots in CodeSandbox or after running the project locally.)*
-
-*   **Desktop:** ![Desktop Screenshot](path/to/desktop-screenshot.png)
-*   **Tablet:** ![Tablet Screenshot](path/to/tablet-screenshot.png)
-*   **Mobile:** ![Mobile Screenshot](path/to/mobile-screenshot.png)
-
-## Running the Project Locally
-
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git`
-2.  Navigate to the project directory: `cd jur-dashboard-react`
-3.  Install dependencies: `npm install`
-4.  Start the development server: `npm start`
-
 ## Technologies Used
 
 *   React.js
